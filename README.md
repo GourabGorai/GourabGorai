@@ -18,7 +18,7 @@ I'm a Computer Science enthusiast pursuing my Bachelor of Computer Application (
 skills = {
     'Languages': ['Python (Intermediate)', 'Java (Beginner)', 'HTML', 'CSS', 'JavaScript'],
     'Technologies': ['Machine Learning', 'DBMS'],
-    'Tools & Frameworks': ['Git', 'Bootstrap']
+    'Tools & Frameworks': ['Git', 'Flask']
 }
 ```
 
